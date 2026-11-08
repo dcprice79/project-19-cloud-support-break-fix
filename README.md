@@ -32,3 +32,19 @@ Approximately $0.10 to $0.30. All resources deleted after the project.
 
 ---
 *Part of my AWS Cloud Engineering Portfolio | [View all projects](https://github.com/dcprice79)*
+
+## Screenshots
+![Baseline Working](01-baseline-working.png)
+![Security Group Symptom](02-sg-symptom.png)
+![SG Reachability Not Reachable](03-sg-reachability-not-reachable.png)
+![SG Fixed Reachable](04-sg-fixed-reachable.png)
+![NACL Reachability Blocked](05-nacl-reachability-blocked.png)
+![Route Table Missing Route](06-route-table-missing-route.png)
+![Lambda AccessDenied](07-lambda-accessdenied.png)
+![CloudTrail AccessDenied Event](08-cloudtrail-accessdenied-event.png)
+![Lambda Fixed](09-lambda-fixed.png)
+![Lambda Timeout Log](10-lambda-timeout-log.png)
+![ALB Serving While Unhealthy](11-alb-serving-while-unhealthy.png)
+![Target Unhealthy 404](12-target-unhealthy-404.png)
+![Target Healthy ALB Working](13-target-healthy-alb-working.png)
+![Resources Deleted](14-resources-deleted.png)
